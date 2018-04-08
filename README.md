@@ -3,7 +3,7 @@ CryptoTicker, a simple app to fetch your daily dose of crypto currency pricings!
 
 ## (Nearly) Finished app
 
-![img_7059](https://user-images.githubusercontent.com/11975614/38470583-a45e52b2-3b82-11e8-819d-d93579683009.PNG =250x250) 
+![img_7059](https://user-images.githubusercontent.com/11975614/38470583-a45e52b2-3b82-11e8-819d-d93579683009.PNG width="300") 
 
 Uses REST service of cryptocurrency tickers online to fetch the latest pricings and variations!
 
