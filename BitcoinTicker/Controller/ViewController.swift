@@ -55,6 +55,7 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
         coinImageView.image = cryptoCoin?.image
         baseCryptoCompareAPI = cryptoCoin?.basicURL
         //createGradientLayer()
+        navigationItem.title = cryptoCoin?.coin
         
         let randomNumber = Int(arc4random() % 2)
         
